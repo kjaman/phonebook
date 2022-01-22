@@ -9,6 +9,6 @@ cd dist
 git init 
 git add -A
 git commit -m 'New Deployement'
-git push -f git@github.com:kjaman/phonebook.git dev:gh-phonebook
+git push -f git@github.com:kjaman/phonebook.git master:gh-phonebook
 
 cd -
